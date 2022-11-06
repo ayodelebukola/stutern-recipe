@@ -1,0 +1,10 @@
+*{
+    background-color: antiquewhite;
+    color: teal;
+    margin: 0;
+    box-sizing: border-box;
+    line-height: 30px;
+    font-family: cursive;
+    font-style: oblique;
+    padding: 5px;
+}
